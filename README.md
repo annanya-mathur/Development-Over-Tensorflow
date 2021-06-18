@@ -1,5 +1,6 @@
 # Tensorflow
 # Activation Function:-
+The purpose of activation functions is to introduce non-linearities into the network , since we have a lot of non-linear data today.
 1) tf.compat.v1.math.**sigmoid**(34.0)
 
 **Sigmoid** :-  ![image](https://user-images.githubusercontent.com/68476475/122535023-c403cd80-d040-11eb-9f45-2fb74404cda9.png)
